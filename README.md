@@ -8,4 +8,4 @@ Jacob Guthrie says:
 >If you are reading this either this project just began
 >or it has ultimately failed its purpose.
 
-This will be accomplished with the help of GNU licensing. 
+This will be accomplished with the help of GNU General Public v3.0 licensing, to be able to "distribute" a cancer free solution!
