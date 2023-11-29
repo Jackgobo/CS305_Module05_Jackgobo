@@ -12,3 +12,5 @@ This will be accomplished with the help of GNU General Public v3.0 licensing, to
 
 Dominick Bosgal updated and said:
 >Hey man, I don't appreciate what you did to my readme file.
+>
+>Im editing the readme again in this fork, for hypothetical modules. 
