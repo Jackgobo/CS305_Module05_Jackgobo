@@ -9,3 +9,6 @@ Jacob Guthrie says:
 >or it has ultimately failed its purpose.
 
 This will be accomplished with the help of GNU General Public v3.0 licensing, to be able to "distribute" a cancer free solution!
+
+Dominick Bosgal updated and said:
+>Hey man, I don't appreciate what you did to my readme file.
